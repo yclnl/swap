@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yclnl.github.io/static/css/main.ea5e0e95.chunk.css",
+    "main.js": "/yclnl.github.io/static/js/main.29b89f55.chunk.js",
+    "runtime-main.js": "/yclnl.github.io/static/js/runtime-main.7fe8d276.js",
+    "static/css/2.b5a80ab8.chunk.css": "/yclnl.github.io/static/css/2.b5a80ab8.chunk.css",
+    "static/js/2.8d70dd12.chunk.js": "/yclnl.github.io/static/js/2.8d70dd12.chunk.js",
+    "index.html": "/yclnl.github.io/index.html",
+    "precache-manifest.97b849904c9f5111e651bf48fa0efbc3.js": "/yclnl.github.io/precache-manifest.97b849904c9f5111e651bf48fa0efbc3.js",
+    "service-worker.js": "/yclnl.github.io/service-worker.js",
+    "static/js/2.8d70dd12.chunk.js.LICENSE.txt": "/yclnl.github.io/static/js/2.8d70dd12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe8d276.js",
+    "static/css/2.b5a80ab8.chunk.css",
+    "static/js/2.8d70dd12.chunk.js",
+    "static/css/main.ea5e0e95.chunk.css",
+    "static/js/main.29b89f55.chunk.js"
+  ]
+}
